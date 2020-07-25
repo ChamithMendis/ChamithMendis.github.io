@@ -1,2 +1,0 @@
-# WCDM
-My social links
