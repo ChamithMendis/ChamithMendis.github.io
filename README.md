@@ -1,9 +1,7 @@
 # ChamithMendis.github.io
-My Details
 My social links https://chamithmendis.github.io/chamith/
 
 # My LinkedIn Certificates 🎓
-
 Here is a list of my completed LinkedIn courses and their certification links:
 
 ## 1. Microservices Foundations
